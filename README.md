@@ -7,4 +7,4 @@
 
 - 🎓 I’m currently studying at **IDN Boarding School Solo**
 - 🌱 I’m currently learning **[Android | Kotlin](https://kotlinlang.org)** and **[Flutter | Dart](https://flutter.dev)** and **[Website | JS](https://www.javascript.com/)**
-- 📫 Text me to my instagram: `baqir_syafi` or LinkedIn: `M. Baqir Syafi`
+- 📫 Text me to my instagram: <a href:"https://www.instagram.com/baqir_syafi/">`baqir_syafi`<href> or LinkedIn: <a href:"https://www.linkedin.com/in/m-baqir-syafi-140bb1218/">`M. Baqir Syafi`<href>
