@@ -6,5 +6,5 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bqirr01&row=1&no-frame=true" alt="bqirr01" /></a></p>
 
 - 🎓 I’m currently studying at **IDN Boarding School Solo**
-- 🌱 I’m currently learning **[Android | Kotlin](https://kotlinlang.org)** and **[Flutter | Dart](https://flutter.dev) And [Website | JS / HTML / CSS]**
+- 🌱 I’m currently learning **[Android | Kotlin](https://kotlinlang.org)** and **[Flutter | Dart](https://flutter.dev)** and **[Website | JS / HTML / CSS]**
 - 📫 Text me to my instagram: `baqir_syafi` or LinkedIn: `M. Baqir Syafi`
