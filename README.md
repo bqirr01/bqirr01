@@ -17,7 +17,7 @@ Languages: JavaScript, Kotlin, Dart,
 Major: Software Engineer
 Hobbies: Exploring new things
 Linkedin: M.Baqir Syafi'
-Instagram: [baqir_syafi](https://www.instagram.com/baqir_syafi/)
+Instagram: baqir_syafi
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
