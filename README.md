@@ -5,21 +5,19 @@
 <img align="left" src="https://user-images.githubusercontent.com/88423102/221730039-4d76baac-acca-480f-9ad8-5a03e08435d2.jpg" alt="myLogo" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+bqirr01@github.com
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
+OS: Linux Mint 20.3 x86_64       
+Shell: bash 5.0.17
 Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
+Location: Semarang, ID
+Frameworks: AdonisJS, Flutter, Laravel
+Languages: JavaScript, Kotlin, Dart,
            HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Major: Software Engineer
+Hobbies: Exploring new things
+Instagram: **[M.Baqir Syafi'](https://www.linkedin.com/in/m-baqir-syafi-01smg)**
+Linkedin: **[baqir_syafi'](https://www.instagram.com/baqir_syafi)**
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
