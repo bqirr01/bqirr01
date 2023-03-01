@@ -1,4 +1,4 @@
-### Hi there, I'm Baqeer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5YzE4ZGI3M2NkMmQwOGUwNzg4YjI2NGU4MjZiYTNkMWNlNDQzZCZjdD1z/f8cFAbAV9lHzpJdDSa/giphy.gif" width="50px">
+## Hi there, I'm Baqeer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5YzE4ZGI3M2NkMmQwOGUwNzg4YjI2NGU4MjZiYTNkMWNlNDQzZCZjdD1z/f8cFAbAV9lHzpJdDSa/giphy.gif" width="50px">
 
 
 ```zsh
@@ -28,6 +28,6 @@ Instagram: baqir_syafi
 </p>
 
 
-## Reach Me Here
+# Reach Me Here
 
 
