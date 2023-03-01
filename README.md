@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://user-images.githubusercontent.com/88423102/222089704-bc3c9ac3-bbc8-4743-b588-94d0668f7b71.png" alt="cat" width="300" /> 
+<img align="left" src="https://user-images.githubusercontent.com/88423102/222089704-bc3c9ac3-bbc8-4743-b588-94d0668f7b71.png" alt="cat" width="250" /> 
 
 ```csharp
 bqirr01@github.com
