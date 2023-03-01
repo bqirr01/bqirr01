@@ -15,9 +15,9 @@ Frameworks: AdonisJS, Flutter, Laravel
 Languages: JavaScript, Kotlin, Dart,
            HTML, CSS
 Major: Software Engineer
-Hobbies: Exploring new things
+Hobbies: Exploring New things
 Linkedin: M.Baqir Syafi'
-Instagram: baqir_syafi
+Instagram: baqir_syafi,
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
