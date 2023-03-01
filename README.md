@@ -1,4 +1,4 @@
-### Hi there, I'm Baqeer <img src="https://user-images.githubusercontent.com/88423102/222150500-de4b2298-d133-447d-bbd9-24ab7a03ee50.gif" width="200px">
+### Hi there, I'm Baqeer <img src="https://user-images.githubusercontent.com/88423102/222150500-de4b2298-d133-447d-bbd9-24ab7a03ee50.gif" width="50px">
 
 
 ```zsh
