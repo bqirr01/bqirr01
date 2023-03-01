@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://user-images.githubusercontent.com/88423102/222089704-bc3c9ac3-bbc8-4743-b588-94d0668f7b71.png" alt="myLogo" width="320" /> 
+<img align="left" src="https://user-images.githubusercontent.com/88423102/222089704-bc3c9ac3-bbc8-4743-b588-94d0668f7b71.png" alt="cat" width="320" /> 
 
 ```csharp
 bqirr01@github.com
@@ -17,7 +17,7 @@ Languages: JavaScript, Kotlin, Dart,
 Major: Software Engineer
 Hobbies: Exploring New things
 Linkedin: M.Baqir Syafi'
-Instagram: baqir_syafi,
+Instagram: baqir_syafi
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
