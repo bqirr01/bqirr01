@@ -28,6 +28,10 @@ Instagram: baqir_syafi
 </p>
 
 
-### Reach Me Here
+## Reach Me Here :
+<a href="https://www.instagram.com/baqir_syafi/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/m-baqir-syafi-01smg/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://studio.youtube.com/channel/UC1Jd9_-uQiIju-aKhS-gSkA/videos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png" alt="LinkedIn" width="30"></a>
+<a href="https://dribbble.com/syafi_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/87/87400.png" alt="LinkedIn" width="30"></a>
 
 
