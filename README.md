@@ -1,4 +1,4 @@
-### Hi there, I'm Baqeer <img src="https://media.giphy.com/media/WhoNyvVjuB88HjDK0l/giphy.gif" width="200px">
+### Hi there, I'm Baqeer <img src="https://media.giphy.com/media/Pkikc0PvXtPkFn4KE7/giphy.gif" width="200px">
 
 
 ```zsh
