@@ -1,4 +1,4 @@
-### Hi there, I'm Baqeer <img src="https://user-images.githubusercontent.com/88423102/222150500-de4b2298-d133-447d-bbd9-24ab7a03ee50.gif" width="50px">
+### Hi there, I'm Baqeer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5YzE4ZGI3M2NkMmQwOGUwNzg4YjI2NGU4MjZiYTNkMWNlNDQzZCZjdD1z/f8cFAbAV9lHzpJdDSa/giphy.gif" width="50px">
 
 
 ```zsh
@@ -26,4 +26,6 @@ Instagram: baqir_syafi
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
+
+
 
