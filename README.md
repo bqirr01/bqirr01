@@ -32,9 +32,9 @@ Instagram: baqir_syafi
 [![Baqeer's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bqirr01&custom_title=Baqeer's%20GitHub%20Activity%20Graph&bg_color=1E1E1E&color=9165E2&line=9165E2&point=9165E2&area=true&hide_border=false&border_radius=5&ring=21)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img id="herokuapp" src="http://github-readme-streak-stats.herokuapp.com/?user=bqirr01&theme=dark&background=000000](https://git.io/streak-stats)" height="200px">  
-  <img id="dancingCat" src="https://user-images.githubusercontent.com/88423102/222453091-5fc93361-0cf0-472a-836e-ddde71c098f2.gif" height="125px">
-  <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqirr01&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="200px">
+  <img id="herokuapp" src="http://github-readme-streak-stats.herokuapp.com/?user=bqirr01&theme=dark&background=000000](https://git.io/streak-stats)" height="150px">  
+  <img id="dancingCat" src="https://user-images.githubusercontent.com/88423102/222453091-5fc93361-0cf0-472a-836e-ddde71c098f2.gif" height="100px">
+  <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqirr01&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="150px">
 </p>
 
 ## Reach Me At : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
