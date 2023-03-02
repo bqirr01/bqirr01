@@ -31,8 +31,8 @@ Instagram: baqir_syafi
 ## Reach Me At :
 <a href="https://www.instagram.com/baqir_syafi/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="50"></a>
 <a href="https://www.linkedin.com/in/m-baqir-syafi-01smg/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="50"></a>
-<a href="https://studio.youtube.com/channel/UC1Jd9_-uQiIju-aKhS-gSkA/videos" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/social+application+social+media+social+network+youtube+icon-1320190747062550320.png" alt="Youtube" width="50"></a>
-<a href="https://dribbble.com/syafi_" target="_blank"><img src="https://www.freeiconspng.com/uploads/social-media-dribbble-icon-19.png" alt="Dribbble" width="50"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqQFWDmNKFnxSzdtCjdwhRgqfFzDnxKSnWWmxVWZjtlJjZBXhJvfPflfCHWMZzxbbMtBL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4812/4812397.png" alt="Email" width="50"></a>
+
 
 
 
