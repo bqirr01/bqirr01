@@ -33,7 +33,7 @@ Instagram: baqir_syafi
 <a href="https://www.linkedin.com/in/m-baqir-syafi-01smg/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="50"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqQFWDmNKFnxSzdtCjdwhRgqfFzDnxKSnWWmxVWZjtlJjZBXhJvfPflfCHWMZzxbbMtBL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4812/4812397.png" alt="Email" width="50"></a>
 
-[![Baqeer's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bqirr01&custom_title=Baqeer's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Baqeer's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bqirr01&custom_title=Baqeer's%20GitHub%20Activity%20Graph&bg_color=000000&color=A04988&line=A04988&point=A04988&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
