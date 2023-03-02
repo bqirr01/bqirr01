@@ -33,7 +33,7 @@ Instagram: baqir_syafi
 
 <p align="center">
   <img id="herokuapp" src="http://github-readme-streak-stats.herokuapp.com/?user=bqirr01&theme=dark&background=000000](https://git.io/streak-stats)" height="200px">  
-  <img id="dancingCat" src="https://user-images.githubusercontent.com/88423102/222453091-5fc93361-0cf0-472a-836e-ddde71c098f2.gif" height="130px">
+  <img id="dancingCat" src="https://user-images.githubusercontent.com/88423102/222453091-5fc93361-0cf0-472a-836e-ddde71c098f2.gif" height="125px">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqirr01&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="200px">
 </p>
 
