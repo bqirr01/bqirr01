@@ -29,7 +29,7 @@ Instagram: baqir_syafi
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
 
-[![Baqeer's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bqirr01&custom_title=Baqeer's%20GitHub%20Activity%20Graph&bg_color=1E1E1E&color=9165E2&line=9165E2&point=9165E2&area=true&hide_border=false&border_radius=5&ring=21)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Baqeer's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bqirr01&custom_title=Baqeer's%20GitHub%20Activity%20Graph&bg_color=1E1E1E&color=9165E2&line=9165E2&point=9165E2&area=true&hide_border=false&border_radius=5&ring=21)](https://github.com/bqirr01)
 
 <p align="center">
   <img id="herokuapp" src="http://github-readme-streak-stats.herokuapp.com/?user=bqirr01&theme=dark&background=000000](https://git.io/streak-stats)" height="165px">  
