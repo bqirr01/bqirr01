@@ -37,22 +37,28 @@ Instagram: baqir_syafi
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqirr01&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
 </p>
 
-#### Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android" width="30" height="30" >&nbsp;
+##
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="30" height="30" >&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30" >&nbsp;
+  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" title="NodeJS" alt="NodeJS" width="30" height="30" >&nbsp;
+   <img src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" title="AdonisJS" alt="AdonisJS" width="30" height="30" >&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="ReactJS" alt="ReactJS" width="30" height="30" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="InkScape" alt="InkScape" width="30" height="30" >&nbsp;
+   <img src="https://icons-for-free.com/iconfiles/png/512/development+js+laravel+logo+script+icon-1320184809621043055.png" title="Laravel" alt="Laravel" width="30" height="30" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30" >&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30" >&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" title="AdonisJS" alt="AdonisJS" width="30" height="30" >&nbsp;
   <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" title="Tailwindcss" alt="Tailwindcss" width="30" height="30" >&nbsp;
+  <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="30" height="30" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30" >&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="InkScape" alt="InkScape" width="30" height="30" >&nbsp;
+</div>
+
 
 ## Reach Me Here : <img style="margin-bottom: -40px" src="https://thumbs.gfycat.com/ShadowyBackBetafish.webp" height=100>
 <a href="https://www.instagram.com/baqir_syafi/" target="_blank"><img src="https://user-images.githubusercontent.com/88423102/222449390-122ce388-37a0-493e-9c8b-4776e43abf42.png" alt="Instagram" width="50"></a>
